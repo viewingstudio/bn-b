@@ -16,18 +16,18 @@ sections:
           alt: Portrait of Shruti Belliappa
         bio: <p>Shruti Belliappa is an art historian and advisor specialising in
           twentieth and twenty-first century art. For over fifteen years, she
-          has worked on collection building, commissions and strategic
+          has worked on collection building, large-scale commissions and
           acquisitions for noted private art collections and foundations
           globally. Her projects are particularly attuned to modern and
           contemporary artists with a profound material and historical
-          sensitivity, such as Agnes Martin, Sol Lewitt, Cy Twombly, Raymond
-          Pettibon, Julie Mehretu and others.</p><p>Maintaining a scholarly and
-          conceptual commitment to thinking through artistic processes, she has
-          long engaged with leading artists and their studios, expanding the
-          scope of their work and introducing it to site specific and
-          intellectual contexts. Having frequently collaborated with the
-          American artist Raymond Pettibon both in publishing and on major
-          private commissions, she is currently the Creative director and
+          sensitivity, such as Agnes Martin, Louise Bourgeois, Sol Lewitt, Cy
+          Twombly, Raymond Pettibon, Doris Salcedo and others.</p><p>Maintaining
+          a scholarly and conceptual commitment to thinking through artistic
+          processes, she has long engaged with leading artists and their
+          studios, expanding the scope of their work and introducing it to site
+          specific and intellectual contexts. Having frequently collaborated
+          with the American artist Raymond Pettibon both on major private
+          commissions and publishing, she is currently the Artistic Director and
           Commercial Advisor for his art practice.</p><p>A proponent of the
           historic crossovers of literature and the visual arts, she is also the
           Founding Editor and Publisher of Hanuman Editions, writings by a
