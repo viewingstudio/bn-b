@@ -43,16 +43,16 @@ sections:
           the post-war and contemporary art market, holding positions at
           Christie’s and Hauser &amp; Wirth in London, and Magazzino d’Arte
           Moderna in Rome. Before co-founding the advisory, she was a partner at
-          the London-based private art dealership, Lindon &amp; Co.</p><p>Alicia
-          advises key art collections spanning Europe, United States, Middle
-          East and Africa. In recent years, she has collaborated on an ambitious
-          program of commercial exhibition making, drawing from expansive
-          curatorial and historical lineages featuring David Hammons, Andy
-          Warhol, Lubaina Himid and Per Kirkeby.&nbsp;</p><p>She is known for
-          sourcing rare and difficult to access blue chip and contemporary art
-          works, and has a strong record of identifying emerging talent early
-          on. Artists such as Lynette Yiadom-Boakye, Jadé Fadojutimi, Issy Wood
-          and Louis Fratino, placed at the outset of their careers, have since
-          gone on to international gallery representation, and have been
+          a London-based private art dealership.</p><p>Alicia advises key art
+          collections spanning Europe, United States, Middle East and Africa. In
+          recent years, she has collaborated on an ambitious program of
+          commercial exhibition making and site-specific projects drawing from
+          expansive curatorial and historical lineages featuring David Hammons,
+          Andy Warhol, Lubaina Himid and Per Kirkeby.&nbsp;</p><p>She is known
+          for sourcing rare and difficult to access blue chip and contemporary
+          art works, and has a strong record of identifying emerging talent
+          early on. Artists such as Lynette Yiadom-Boakye, Jadé Fadojutimi, Issy
+          Wood and Louis Fratino, placed at the outset of their careers, have
+          since gone on to international gallery representation, and have been
           acquired by major museums.</p>
 ---
