@@ -28,14 +28,14 @@ sections:
           specific and intellectual contexts. Having frequently collaborated
           with the American artist Raymond Pettibon both on major private
           commissions and publishing, she is currently the Artistic Director and
-          Commercial Advisor for his art practice.</p><p>A proponent of the
-          historic crossovers of literature and the visual arts, she is also the
-          Founding Editor and Publisher of Hanuman Editions, writings by a
-          transnational artistic and literary avant-garde, orienting from the
-          20th century legendary and cult series, Hanuman Books. Since its
-          inception in 2023, Hanuman Editions has gone on to become a globally
-          distributed small press, with a notable catalogue of writers and a
-          staunch following worldwide.</p>
+          Advisor for his art practice.</p><p>A proponent of the historic
+          crossovers of literature and the visual arts, she is also the Founding
+          Editor and Publisher of Hanuman Editions, writings by a transnational
+          artistic and literary avant-garde, orienting from the 20th century
+          legendary and cult series, Hanuman Books. Since its inception in 2023,
+          Hanuman Editions has gone on to become a globally distributed small
+          press, with a notable catalogue of writers and a staunch following
+          worldwide.</p>
       - name: Alicia Norman-Butler
         image:
           alt: Portrait of Alicia Norman-Butler
